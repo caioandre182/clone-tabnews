@@ -5,10 +5,10 @@ function Home(){
             O quão rápido você ia querer fracassar?
         </h3>
         <h4 style={{ marginTop: '1rem'}}>
-          Toda vez que eu olho pra você, eu penso, eu preciso ficar rico, eu tenho certeza que você vai conquistar o mundo,
-          e o mínimo que eu preciso, é ter outro mundo te esperando aqui, você merece tudo o que tem de melhor nessa e em todas as outras vidas!
+          Jamais tenha medo de errar, de não arriscar, você merece o melhor dessa e de todas as outras vidas,
+           não vejo a hora de ter ver feliz de novo
         </h4>
-        <h5>Amar só Deus!</h5>
+        <h5>Amar só a Deus!</h5>
         </>
 
     )
